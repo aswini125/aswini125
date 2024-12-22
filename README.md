@@ -43,7 +43,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/aswinirvm/some-project"><b>Data Analytics Portfolio</b></a></td>
+      <td><a href="https://github.com/aswinirvm/some-project"><b>Coming Soon</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
@@ -53,7 +53,7 @@
 
    <tbody>
     <tr>
-      <td><a href="https://aswini125.github.io/My-Portfolio/"><b>Advance Portfolio Website</b></a></td>
+      <td><a href="https://aswini125.github.io/My-Portfolio/"><b>My Portfolio Website</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
@@ -63,7 +63,7 @@
 
    <tbody>
     <tr>
-      <td><a href="https://github.com/aswinirvm/some-project"><b>My Professional Portfolio</b></a></td>
+      <td><a href="https://github.com/aswinirvm/some-project"><b>Coming Soon</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/aswinirvm/some-project?style=flat-square&labelColor=343b41"/></td>
