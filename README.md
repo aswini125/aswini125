@@ -16,6 +16,14 @@
   </a>
 </p>
 
+<div align="center" >
+    <a href="https://github.com/aswini125">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswini125&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aswini125&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aswini125&theme=dark" width="32.5%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswini125&theme=dark" width="100%" height="50%">
+    </a>
+</div>
 
 
 ---
