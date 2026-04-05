@@ -16,7 +16,13 @@
   </a>
 </p>
 
+
+
 ---
+
+<h3 align="center">Contribution Graph </h3>
+  
+[![aswini125's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aswini125&theme=github-compact)](https://github.com/aswini125/github-readme-activity-graph)
 
 ## 🙋‍♀️ About Me
 
